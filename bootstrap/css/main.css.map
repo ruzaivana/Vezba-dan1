@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAW;EACR,gBAAgB,EAAE,OAAO;;AAI5B,aAAa;EAET,KAAK,EAAE,gBAAgB;;AAE3B,SAAS;EAEL,KAAK,EAAE,gBAAgB;;ACX3B,SAAU;EACN,gBAAgB,EAAG,OAAO",
+"sources": ["../scss/_navbar.scss","../scss/_porfolio.scss"],
+"names": [],
+"file": "main.css"
+}
