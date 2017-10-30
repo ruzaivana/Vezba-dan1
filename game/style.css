@@ -1,0 +1,23 @@
+body {
+    width: 100%;
+}
+#container {
+    width: 100%;
+}
+
+#player {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+button {
+    position: relative;
+    bottom: 70px;
+    float: right;
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    color: white;
+}
